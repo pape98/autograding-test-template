@@ -1,0 +1,8 @@
+{
+  "name": "autograding-test-template",
+  "version": "1.0.0",
+  "description": "Template for testing Classmoji autograding",
+  "scripts": {
+    "test": "node --test"
+  }
+}
